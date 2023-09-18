@@ -7,7 +7,6 @@
 # get_mid_point(point1, point2)  # {'x': 2, 'y': 2}
 
 # Средняя точка вычисляется по формуле x = (x1 + x2) / 2 и y = (y1 + y2) / 2.
-#
 
 
 def get_mid_point(p1, p2):

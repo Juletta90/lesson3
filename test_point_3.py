@@ -10,3 +10,4 @@ def test_mid_point():
     point4 = {'x': 0, 'y': -3}
     assert get_mid_point(point3, point4) == {'x': -0.5, 'y': 3.5}
 
+
